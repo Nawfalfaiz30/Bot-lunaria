@@ -1,0 +1,137 @@
+{
+  "area_1": {
+    "monsters": [
+      { "id": "green_slime", "name": "🟢 Green Slime", "hp": 45, "atk": 8, "def": 2, "isBoss": false, "loot_table_id": "lt_slime" },
+      { "id": "goblin_scout", "name": "👺 Goblin Scout", "hp": 65, "atk": 12, "def": 4, "isBoss": false, "loot_table_id": "lt_goblin_scout" }
+    ],
+    "boss": {
+      "id": "goblin_king", "name": "👑 Goblin King (BOSS)", "hp": 240, "atk": 22, "def": 8, "isBoss": true, "loot_table_id": "lt_boss_goblin_king"
+    }
+  },
+  "area_2": {
+    "monsters": [
+      { "id": "cave_spider", "name": "🕷️ Cave Spider", "hp": 120, "atk": 23, "def": 9, "isBoss": false, "loot_table_id": "lt_cave_spider" },
+      { "id": "earth_golem", "name": "🗿 Earth Golem", "hp": 165, "atk": 31, "def": 14, "isBoss": false, "loot_table_id": "lt_earth_golem" }
+    ],
+    "boss": {
+      "id": "iron_colossus", "name": "💎 Iron Colossus (BOSS)", "hp": 560, "atk": 46, "def": 22, "isBoss": true, "loot_table_id": "lt_boss_iron_colossus"
+    }
+  },
+  "area_3": {
+    "monsters": [
+      { "id": "kobold_miner", "name": "⛏️ Kobold Miner", "hp": 250, "atk": 44, "def": 18, "isBoss": false, "loot_table_id": "lt_kobold_miner" },
+      { "id": "mine_bat", "name": "🦇 Mine Bat", "hp": 310, "atk": 52, "def": 22, "isBoss": false, "loot_table_id": "lt_mine_bat" }
+    ],
+    "boss": {
+      "id": "crystal_golem", "name": "🔮 Crystal Golem (BOSS)", "hp": 980, "atk": 74, "def": 35, "isBoss": true, "loot_table_id": "lt_boss_crystal_golem"
+    }
+  },
+  "area_4": {
+    "monsters": [
+      { "id": "silk_spider", "name": "🕸️ Silk Spider", "hp": 420, "atk": 66, "def": 28, "isBoss": false, "loot_table_id": "lt_silk_spider" },
+      { "id": "poison_beetle", "name": "🪲 Poison Beetle", "hp": 500, "atk": 75, "def": 34, "isBoss": false, "loot_table_id": "lt_poison_beetle" }
+    ],
+    "boss": {
+      "id": "spider_queen", "name": "🕷️ Spider Queen (BOSS)", "hp": 1520, "atk": 105, "def": 52, "isBoss": true, "loot_table_id": "lt_boss_spider_queen"
+    }
+  },
+  "area_5": {
+    "monsters": [
+      { "id": "orc_warrior", "name": "🐗 Orc Warrior", "hp": 650, "atk": 92, "def": 42, "isBoss": false, "loot_table_id": "lt_orc_warrior" },
+      { "id": "swamp_croc", "name": "🐊 Swamp Croc", "hp": 740, "atk": 102, "def": 48, "isBoss": false, "loot_table_id": "lt_swamp_croc" }
+    ],
+    "boss": {
+      "id": "orc_warlord", "name": "🪓 Orc Warlord (BOSS)", "hp": 2200, "atk": 142, "def": 70, "isBoss": true, "loot_table_id": "lt_boss_orc_warlord"
+    }
+  },
+  "area_6": {
+    "monsters": [
+      { "id": "beastman_hunter", "name": "🐆 Beastman Hunter", "hp": 920, "atk": 124, "def": 58, "isBoss": false, "loot_table_id": "lt_beastman_hunter" },
+      { "id": "savannah_panther", "name": "🐆 Savannah Panther", "hp": 1050, "atk": 136, "def": 65, "isBoss": false, "loot_table_id": "lt_savannah_panther" }
+    ],
+    "boss": {
+      "id": "beast_king", "name": "🦁 Beast King (BOSS)", "hp": 3100, "atk": 190, "def": 96, "isBoss": true, "loot_table_id": "lt_boss_beast_king"
+    }
+  },
+  "area_7": {
+    "monsters": [
+      { "id": "rogue_elf", "name": "🧝 Rogue Elf", "hp": 1280, "atk": 162, "def": 78, "isBoss": false, "loot_table_id": "lt_rogue_elf" },
+      { "id": "pixie_corrupted", "name": "🧚‍♀️ Corrupted Pixie", "hp": 1450, "atk": 178, "def": 86, "isBoss": false, "loot_table_id": "lt_pixie_corrupted" }
+    ],
+    "boss": {
+      "id": "elven_elder", "name": "🧝‍♂️ Elven Elder (BOSS)", "hp": 4250, "atk": 250, "def": 125, "isBoss": true, "loot_table_id": "lt_boss_elven_elder"
+    }
+  },
+  "area_8": {
+    "monsters": [
+      { "id": "skeleton_warrior", "name": "💀 Skeleton Warrior", "hp": 1680, "atk": 204, "def": 100, "isBoss": false, "loot_table_id": "lt_skeleton" },
+      { "id": "zombie_soldier", "name": "🧟 Zombie Soldier", "hp": 1900, "atk": 222, "def": 110, "isBoss": false, "loot_table_id": "lt_zombie" }
+    ],
+    "boss": {
+      "id": "lich_king", "name": "🧙‍♂️ Lich King (BOSS)", "hp": 5500, "atk": 315, "def": 162, "isBoss": true, "loot_table_id": "lt_boss_lich"
+    }
+  },
+  "area_9": {
+    "monsters": [
+      { "id": "mountain_wyvern", "name": "🐉 Mountain Wyvern", "hp": 2200, "atk": 256, "def": 126, "isBoss": false, "loot_table_id": "lt_mountain_wyvern" },
+      { "id": "cliff_gargoyle", "name": "🪨 Cliff Gargoyle", "hp": 2480, "atk": 280, "def": 138, "isBoss": false, "loot_table_id": "lt_cliff_gargoyle" }
+    ],
+    "boss": {
+      "id": "wyvern_emperor", "name": "👑 Wyvern Emperor (BOSS)", "hp": 6850, "atk": 395, "def": 202, "isBoss": true, "loot_table_id": "lt_boss_wyvern_emperor"
+    }
+  },
+  "area_10": {
+    "monsters": [
+      { "id": "maze_bull", "name": "🐂 Maze Bull", "hp": 2850, "atk": 318, "def": 158, "isBoss": false, "loot_table_id": "lt_maze_bull" },
+      { "id": "labyrinth_crawler", "name": "🐛 Labyrinth Crawler", "hp": 3180, "atk": 348, "def": 172, "isBoss": false, "loot_table_id": "lt_labyrinth_crawler" }
+    ],
+    "boss": {
+      "id": "minotaur_king", "name": "🪓 Minotaur King (BOSS)", "hp": 8500, "atk": 495, "def": 260, "isBoss": true, "loot_table_id": "lt_boss_minotaur_king"
+    }
+  },
+  "area_11": {
+    "monsters": [
+      { "id": "dragon_whelp", "name": "🐉 Dragon Whelp", "hp": 3550, "atk": 392, "def": 196, "isBoss": false, "loot_table_id": "lt_dragon_whelp" },
+      { "id": "fire_drake", "name": "🔥 Fire Drake", "hp": 3940, "atk": 426, "def": 213, "isBoss": false, "loot_table_id": "lt_fire_drake" }
+    ],
+    "boss": {
+      "id": "ancient_dragon_god", "name": "🐉 Ancient Dragon God (BOSS)", "hp": 10500, "atk": 610, "def": 320, "isBoss": true, "loot_table_id": "lt_boss_dragon_god"
+    }
+  },
+  "area_12": {
+    "monsters": [
+      { "id": "border_imp", "name": "😈 Border Imp", "hp": 4450, "atk": 482, "def": 242, "isBoss": false, "loot_table_id": "lt_border_imp" },
+      { "id": "corrupted_soldier", "name": "🛡️ Corrupted Soldier", "hp": 4940, "atk": 524, "def": 264, "isBoss": false, "loot_table_id": "lt_corrupted_soldier" }
+    ],
+    "boss": {
+      "id": "demon_commander", "name": "🔱 Demon Commander (BOSS)", "hp": 12800, "atk": 740, "def": 395, "isBoss": true, "loot_table_id": "lt_boss_demon_commander"
+    }
+  },
+  "area_13": {
+    "monsters": [
+      { "id": "high_demon", "name": "🦇 High Demon", "hp": 5500, "atk": 588, "def": 296, "isBoss": false, "loot_table_id": "lt_high_demon" },
+      { "id": "succubus_guard", "name": "💋 Succubus Guard", "hp": 6050, "atk": 634, "def": 320, "isBoss": false, "loot_table_id": "lt_succubus_guard" }
+    ],
+    "boss": {
+      "id": "demon_chancellor", "name": "📖 Demon Chancellor (BOSS)", "hp": 15200, "atk": 880, "def": 480, "isBoss": true, "loot_table_id": "lt_boss_demon_chancellor"
+    }
+  },
+  "area_14": {
+    "monsters": [
+      { "id": "throne_knight", "name": "⚔️ Throne Guard Knight", "hp": 6750, "atk": 712, "def": 366, "isBoss": false, "loot_table_id": "lt_throne_knight" },
+      { "id": "infernal_wisp", "name": "🔥 Infernal Wisp", "hp": 7350, "atk": 768, "def": 394, "isBoss": false, "loot_table_id": "lt_infernal_wisp" }
+    ],
+    "boss": {
+      "id": "demon_king", "name": "👑 Demon King (BOSS)", "hp": 18500, "atk": 1050, "def": 600, "isBoss": true, "loot_table_id": "lt_boss_demon_king"
+    }
+  },
+  "area_15": {
+    "monsters": [
+      { "id": "yggdrasil_wisp", "name": "✨ Yggdrasil Wisp", "hp": 8200, "atk": 854, "def": 442, "isBoss": false, "loot_table_id": "lt_yggdrasil_wisp" },
+      { "id": "valkyrie_scout", "name": "🛡️ Valkyrie Scout", "hp": 8900, "atk": 918, "def": 476, "isBoss": false, "loot_table_id": "lt_valkyrie_scout" }
+    ],
+    "boss": {
+      "id": "goddess_gaya", "name": "🪶 Goddess of Creation (FINAL BOSS)", "hp": 22500, "atk": 1260, "def": 700, "isBoss": true, "loot_table_id": "lt_final_boss_goddess"
+    }
+  }
+}
